@@ -1,9 +1,29 @@
 <channels>
 <channel>
-<name>[B][/B]</name>
-<thumbnail></thumbnail> Small pic
+<name>[B]Rambo Live TV[/B]</name>
+<thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/Slashimi/slashimi.github.io/5126b0ebabe9e676dc67881f575188beb86d97b3/index.m3u</externallink>
+<fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
+<info>[B][/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rambo Live TV[/B]</name>
+<thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
 <externallink></externallink>
-<fanart></fanart> Bic pic
+<fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
+<info>[B][/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rambo Live TV[/B]</name>
+<thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
+<externallink></externallink>
+<fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
 <info>[B][/B]</info>
 </channels>
 </channel>
