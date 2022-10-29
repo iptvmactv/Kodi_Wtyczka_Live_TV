@@ -27,3 +27,15 @@
 <info>[B][/B]</info>
 </channels>
 </channel>
+
+<channels>
+<channel>
+<name>[B]Rambo Live TV XXX[/B]</name>
+<thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/Chris149131/live/94118ec4c7320620b8c75737dc07bb5754b7c117/%E5%98%BF%E5%98%BF.m3u</externallink>
+<fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
+<info>[B][/B]</info>
+</channels>
+</channel>
+
+
